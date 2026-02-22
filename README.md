@@ -16,9 +16,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Dexacon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexacon&show_icons=true&theme=radical&hide_border=true&cache=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexacon&layout=compact&theme=radical&hide_border=true&cache=false)
-
----
 
